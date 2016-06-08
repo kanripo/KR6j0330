@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:23.872551
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:16
 #+TITLE: 觀世音菩薩救苦經
 #+PROPERTY: CBETA_ID X01n0034
 #+PROPERTY: ID KR6j0330
